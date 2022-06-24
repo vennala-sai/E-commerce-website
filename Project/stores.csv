@@ -1,0 +1,7 @@
+ID,Name,ManagerID,StartTime,EndTime,Items,SaleItems,ItemLocation
+S0,22 Jon Street,M0,10am,6pm,"{Pepsi=5,Yogurt=10,Eggs=20,Beer=10}","{Yogurt=10,Eggs=100}","{Cheese=(5:7),Yogurt=(2:3),Milk=(5:8),Beer=(1:3)}"
+S1,11 Ron Blvd,M1,10am,10pm,"{Tylenol=20,Chicken=3,Eggs=100,Milk=15,Beer=60}",{},{Eggs=(3:22)}
+S2,25 Song Rd,no manager assigned,8am,8pm,"{Ketchup=10,Yogurt=50}",{},"{Ketchup=(5:3),Yogurt=(5:6)}"
+S3,101 Benz Blvd,M3,7am,10pm,{Ketchup=15},{},{}
+S4,11 Alham Rd,no manager assigned,9am,9pm,"{Chicken=12,Eggs=100}",{Chicken=7},{}
+S5,14 Chevy St,no manager assigned,7am,10pm,{},{},{}
